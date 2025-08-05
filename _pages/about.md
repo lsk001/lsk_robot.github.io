@@ -49,6 +49,27 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RAL2025</div>
+      <!-- 替换图片为视频 -->
+      <video width="100%" controls poster="images/algorithm_frame.jpg">
+        <source src="images/RAL2025.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[Koopman-based Robust Learning Control with Extended State Observer] 
+
+**Shangke Lyu†**, Xin Lang†, Donglin Wang
+
+- In this paper, we propose a robust active learning (RAL) control method designed to optimize data efficiency during model learning while ensuring robust and precise control during task execution.  
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
