@@ -64,7 +64,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Integrating Trajectory Optimization and Reinforcement Learning for Quadrupedal Jumping with Terrain-Adaptive Landing] 
 
-Renjie Wang, ** Shangke Lyu* **, Xin Lang, Wei Xiao, Donglin Wang *
+Renjie Wang, **Shangke Lyu^**, Xin Lang, Wei Xiao, Donglin Wang^
 
 - This work proposes a safe landing framework that achieves adaptive landing on rough terrains by combining Trajectory Optimization (TO) and Reinforcement
 Learning (RL) together. 
