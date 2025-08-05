@@ -52,21 +52,22 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">RAL2025</div>
+      <div class="badge">IROS 2025</div>
       <!-- 替换图片为视频 -->
-      <video width="100%" controls poster="images/algorithm_frame.jpg">
-        <source src="images/RAL2025.mp4" type="video/mp4">
+      <video width="100%" controls poster="images/iros2025_cover.jpg">
+        <source src="images/iros2025.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-[Koopman-based Robust Learning Control with Extended State Observer] 
+[Integrating Trajectory Optimization and Reinforcement Learning for Quadrupedal Jumping with Terrain-Adaptive Landing] 
 
-**Shangke Lyu†**, Xin Lang†, Donglin Wang
+Renjie Wang, **Shangke Lyu***, Xin Lang, Wei Xiao, Donglin Wang*
 
-- In this paper, we propose a robust active learning (RAL) control method designed to optimize data efficiency during model learning while ensuring robust and precise control during task execution.  
+- This work proposes a safe landing framework that achieves adaptive landing on rough terrains by combining Trajectory Optimization (TO) and Reinforcement
+Learning (RL) together. 
 </div>
 </div>
 
