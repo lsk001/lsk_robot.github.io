@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 [Koopman-based Robust Learning Control with Extended State Observer] 
 
 **Shangke Lyu†**, Xin Lang†, Donglin Wang,
-IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
+IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
 
 - In this paper, we propose a robust active learning (RAL) control method designed to optimize data efficiency during model learning while ensuring robust and precise control during task execution.  
 </div>
