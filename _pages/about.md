@@ -43,7 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Koopman-based Robust Learning Control with Extended State Observer] 
 
-**Shangke Lyu†**, Xin Lang†, Donglin Wang
+**Shangke Lyu†**, Xin Lang†, Donglin Wang，
+IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
 
 - In this paper, we propose a robust active learning (RAL) control method designed to optimize data efficiency during model learning while ensuring robust and precise control during task execution.  
 </div>
@@ -64,7 +65,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Integrating Trajectory Optimization and Reinforcement Learning for Quadrupedal Jumping with Terrain-Adaptive Landing] 
 
-Renjie Wang, **Shangke Lyu^**, Xin Lang, Wei Xiao, Donglin Wang^
+Renjie Wang, **Shangke Lyu^**, Xin Lang, Wei Xiao, Donglin Wang^，
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
 
 - This work proposes a safe landing framework that achieves adaptive landing on rough terrains by combining Trajectory Optimization (TO) and Reinforcement
 Learning (RL) together. 
