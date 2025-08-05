@@ -47,8 +47,8 @@ My research interest includes neural machine translation and computer vision. I 
     <div>
       <div class="badge">CVPR 2016</div>
       <!-- 替换图片为视频 -->
-      <video width="100%" controls poster="images/video-poster.jpg">
-        <source src="videos/your-video.mp4" type="video/mp4">
+      <video width="100%" controls poster="images/algorithm_frame.jpg">
+        <source src="images/RAL2025.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
