@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Shangke Lyu†**, Xin Lang†, Donglin Wang
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- In this paper, we propose a robust active learning (RAL) control method designed to optimize data efficiency during model learning while ensuring robust and precise control during task execution.  
 </div>
 </div>
 
