@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-- <div class='paper-box'>
+<div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2016</div>
@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
       </video>
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
