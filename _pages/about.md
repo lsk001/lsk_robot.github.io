@@ -31,7 +31,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CVPR 2016</div>
+      <div class="badge">RAL2025</div>
       <!-- 替换图片为视频 -->
       <video width="100%" controls poster="images/algorithm_frame.jpg">
         <source src="images/RAL2025.mp4" type="video/mp4">
