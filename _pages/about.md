@@ -42,6 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 [Koopman-based Robust Learning Control with Extended State Observer] 
+
 **Shangke Lyu†**, Xin Lang†, Donglin Wang
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
