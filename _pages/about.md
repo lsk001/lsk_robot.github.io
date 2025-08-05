@@ -74,8 +74,8 @@ Learning (RL) together.
 </div>
 
 # 🎖 Honors and Awards
-- *07/2018* Best Paper Award Finalists, by The 2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).
-- *06/2016* Best Conference Paper Award, by The 2016 IEEE International Conference on Real-time Computing and Robotics (RCAR).
+- *07/2018* **Best Paper Award Finalists**, by The 2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).
+- *06/2016* **Best Conference Paper Award**, by The 2016 IEEE International Conference on Real-time Computing and Robotics (RCAR).
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
