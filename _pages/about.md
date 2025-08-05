@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Koopman-based Robust Learning Control with Extended State Observer] 
 
-**Shangke Lyu†**, Xin Lang†, Donglin Wang，
+**Shangke Lyu†**, Xin Lang†, Donglin Wang,
 IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
 
 - In this paper, we propose a robust active learning (RAL) control method designed to optimize data efficiency during model learning while ensuring robust and precise control during task execution.  
@@ -65,8 +65,8 @@ IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
 
 [Integrating Trajectory Optimization and Reinforcement Learning for Quadrupedal Jumping with Terrain-Adaptive Landing] 
 
-Renjie Wang, **Shangke Lyu^**, Xin Lang, Wei Xiao, Donglin Wang^，
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
+Renjie Wang, **Shangke Lyu^**, Xin Lang, Wei Xiao, Donglin Wang^,
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
 
 - This work proposes a safe landing framework that achieves adaptive landing on rough terrains by combining Trajectory Optimization (TO) and Reinforcement
 Learning (RL) together. 
@@ -74,8 +74,8 @@ Learning (RL) together.
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *07/2018* Best Paper Award Finalists, by The 2018 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM).
+- *06/2016* Best Conference Paper Award, by The 2016 IEEE International Conference on Real-time Computing and Robotics (RCAR).
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
