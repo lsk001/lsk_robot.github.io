@@ -65,7 +65,7 @@ IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
 
 [RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion] 
 
-**Shangke Lyu†**, Xin Lang, Han Zhao, Hongyin Zhang, Pengxiang Ding, Donglin Wang,
+**Shangke Lyu**, Xin Lang, Han Zhao, Hongyin Zhang, Pengxiang Ding, Donglin Wang,
 Robotics: Science and Systems(RSS), 2024.
 
 - In this paper, we seek to ascertain the control mechanism behind the locomotion RL policy, from which we propose a new RLbased Rapid onLine Adaptive Control (RL2AC) algorithm to complementarily combine the RL policy and the adaptive control together.
@@ -109,12 +109,46 @@ IEEE Transactions on Automation Science and Engineering,vol. 22, pp. 4076-4091, 
   </div>
 <div class='paper-box-text' markdown="1">
 
-A Coordinated Framework of Aerial Manipulator for Safe and Compliant Physical Interaction] 
+[A Coordinated Framework of Aerial Manipulator for Safe and Compliant Physical Interaction] 
 
 Qianyuan Liu, **Shangke Lyu^**, Kexin Guo, Jianliang Wang, Xiang Yu, Lei Guo,
 Control Engineering Practice, vol.146, 2024.
 
 - This paper proposes a coordinated interactive framework for aerial manipulators to achieve safe and compliant interaction when physically contacting the surroundings.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE-TCST2020</div>
+      <!-- 替换图片为视频 -->
+      <video width="100%" controls poster="images/TCST2020_c.jpg">
+        <source src="images/TCST2020_v.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[Human-Robot Interaction Control Based on a General Energy Shaping Method] 
+
+**Shangke Lyu**, Chien Chern Cheah,
+IEEE Transactions on Control Systems Technology, vol. 28, no. 6, pp. 2445-2460, 2020.
+
+- In this article, a general HRI control framework is proposed for the scenario of the human and robot coexisting in the same workspace.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica2020</div><img src='images/Auto2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Data-driven Learning for Robot Control With Unknown Jacobian]
+
+**Shangke Lyu**, Chien Chern Cheah,
+Automatica, vol. 120, pp.109-120, 2020.
+
+- In this paper, a NN based data driven offline learning algorithm and an online learning controller are proposed, which are combined in a complementary way.
 </div>
 </div>
 
