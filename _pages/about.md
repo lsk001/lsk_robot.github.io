@@ -76,29 +76,6 @@ Robotics: Science and Systems(RSS), 2024.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE-TASE2025</div>
-      <!-- 替换图片为视频 -->
-      <video width="100%" controls poster="images/TASE2025.png">
-        <source src="images/TASE2025_v.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </div>
-  </div>
-<div class='paper-box-text' markdown="1">
-
-[Toward Air Operation Aerial Manipulator Control with a Refined Anti-Disturbance Architecture] 
-
-**Shangke Lyu**, Yu Zhang, Jianliang Wang, Chien Chern Cheah, Xiang Yu,
-IEEE Transactions on Automation Science and Engineering,vol. 22, pp. 4076-4091, 2025.
-
--In this paper, a refined anti-disturbance control architecture is proposed for the aerial manipulator system, where various disturbances with different mathematical properties are well explored and tackled according to their positions and effects acting on the system.
-</div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
       <div class="badge">CEP2024</div>
       <!-- 替换图片为视频 -->
       <video width="100%" controls poster="images/CEP2024_c.jpg">
