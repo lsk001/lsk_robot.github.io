@@ -55,7 +55,7 @@ IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
     <div>
       <div class="badge">IEEE-TASE2025</div>
       <!-- 替换图片为视频 -->
-      <video width="100%" controls poster="images/TASE2025.jpg">
+      <video width="100%" controls poster="images/TASE2025.png">
         <source src="images/TASE2025_v.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
