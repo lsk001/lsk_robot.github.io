@@ -53,6 +53,30 @@ IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">RAL2025</div>
+      <!-- 替换图片为视频 -->
+      <video width="100%" controls poster="images/RSS2024_c.jpg">
+        <source src="images/RSS2024_v.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+[RL2AC: Reinforcement Learning-based Rapid Online Adaptive Control for Legged Robot Robust Locomotion] 
+
+**Shangke Lyu†**, Xin Lang, Han Zhao, Hongyin Zhang, Pengxiang Ding, Donglin Wang,
+Robotics: Science and Systems(RSS), 2024.
+
+- In this paper, we seek to ascertain the control mechanism behind the locomotion RL policy, from which we propose a new RLbased Rapid onLine Adaptive Control (RL2AC) algorithm to complementarily combine the RL policy and the adaptive control together.
+</div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">IEEE-TASE2025</div>
       <!-- 替换图片为视频 -->
       <video width="100%" controls poster="images/TASE2025.png">
