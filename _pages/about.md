@@ -68,7 +68,7 @@ IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
 **Shangke Lyu**, Xin Lang, Han Zhao, Hongyin Zhang, Pengxiang Ding, Donglin Wang,
 Robotics: Science and Systems(RSS), 2024.
 
-- In this paper, we seek to ascertain the control mechanism behind the locomotion RL policy, from which we propose a new RLbased Rapid onLine Adaptive Control (RL2AC) algorithm to complementarily combine the RL policy and the adaptive control together.
+- In this paper, we seek to ascertain the control mechanism behind the locomotion RL policy, from which we propose a new RL based Rapid onLine Adaptive Control (RL2AC) algorithm to complementarily combine the RL policy and the adaptive control together.
 </div>
 </div>
 
