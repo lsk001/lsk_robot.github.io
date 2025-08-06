@@ -53,23 +53,22 @@ IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2303-2310, 2025.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IROS 2025</div>
+      <div class="badge">IEEE-TASE2025</div>
       <!-- 替换图片为视频 -->
-      <video width="100%" controls poster="images/iros2025_cover.jpg">
-        <source src="images/iros2025.mp4" type="video/mp4">
+      <video width="100%" controls poster="images/TASE2025.jpg">
+        <source src="images/TASE2025_v.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
 
-[Integrating Trajectory Optimization and Reinforcement Learning for Quadrupedal Jumping with Terrain-Adaptive Landing] 
+[Toward Air Operation Aerial Manipulator Control with a Refined Anti-Disturbance Architecture] 
 
-Renjie Wang, **Shangke Lyu^**, Xin Lang, Wei Xiao, Donglin Wang^,
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+**Shangke Lyu**, Yu Zhang, Jianliang Wang, Chien Chern Cheah, Xiang Yu,
+IEEE Transactions on Automation Science and Engineering,vol. 22, pp. 4076-4091, 2025.
 
-- This work proposes a safe landing framework that achieves adaptive landing on rough terrains by combining Trajectory Optimization (TO) and Reinforcement
-Learning (RL) together. 
+-In this paper, a refined anti-disturbance control architecture is proposed for the aerial manipulator system, where various disturbances with different mathematical properties are well explored and tackled according to their positions and effects acting on the system.
 </div>
 </div>
 
