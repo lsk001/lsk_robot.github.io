@@ -100,7 +100,7 @@ Control Engineering Practice, vol.146, 2024.
     <div>
       <div class="badge">IEEE-TCST2020</div>
       <!-- 替换图片为视频 -->
-      <video width="100%" controls poster="images/TCST2020_c.jpg">
+      <video width="100%" controls poster="images/TCST2020.jpg">
         <source src="images/TCST2020_v.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -117,7 +117,7 @@ IEEE Transactions on Control Systems Technology, vol. 28, no. 6, pp. 2445-2460, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica2020</div><img src='images/Auto2020.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica2020</div><img src='images/Auto2020.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Data-driven Learning for Robot Control With Unknown Jacobian]
