@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shangke Lyu Homepage"
-description              : "Assistant Professor @NJU"
+description              : "School of Robotics and Automation @ NJU"
 repository               : "https://lsk001.github.io/lsk_robot.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shangke Lyu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Assistant Professor"
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
